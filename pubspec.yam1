@@ -1,0 +1,13 @@
+name: hurghada_padel
+description: Padel booking app
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.7
+
+flutter:
+  uses-material-design: true
